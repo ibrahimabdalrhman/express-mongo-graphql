@@ -18,11 +18,11 @@ express-mongo-graphql   is a simple backend application designed to help develop
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/GraphCommerce-API.git
+   git clone https://github.com/ibrahimabdalrhman/express-mongo-graphql.git
 2. **Navigate to the project directory**
 
    ```bash
-   cd GraphCommerce-API
+   cd express-mongo-graphql
 3. **Install dependencies:**
 
    ```bash
